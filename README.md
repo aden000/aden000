@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aden000 (Achmad Ade Nugroho)
 - 👀 I’m interested in Web and Android
-- 🌱 I’m currently learning Flutter
-- 📫 Reach me with e-mail to ade.nugroho123@gmail.com
+- 🌱 I’m still learning more
+- 📫 Reach me with e-mail to adenugroho.work@gmail.com
 - Fresh Graduate | Looking for Job
 - Visit my website at [https://www.ancrek.my.id](https://www.ancrek.my.id)
 
